@@ -1,0 +1,1 @@
+flutter create -t app --org com.abnervalverde.dioapp -a kotlin -i swift dioproject
